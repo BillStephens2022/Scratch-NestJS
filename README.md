@@ -2,11 +2,12 @@
 
   ## Description
 
-  My first NestJS application built from scratch.  A simple starter app, with a get route that returns some HTML.
+  My first NestJS application built from scratch.  A simple starter app, with a couple of get routes that return HTML.
 
   ### Screenshot of app:
 
-  ![app screenshot](screenshot.png)
+  ![app screenshot - home page](screenshot.png)
+  ![app screenshot - fun page](screenshot2.png)
 
   
   ## Table of Contents
@@ -24,7 +25,7 @@
   
   ## Usage
   
-  run `npx ts-node-dev src/main.ts` in the command line of the project folder.  got to localhost: 3000 in your browser.
+  run `npx ts-node-dev src/main.ts` in the command line of the project folder.  Go to [localhost: 3000](http://localhost:3000) in your browser.  Also try going to [localhost: 3000/fun](http://localhost:3000/fun)
 
   ## License
 This application is covered under the MIT License.
