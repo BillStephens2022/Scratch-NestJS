@@ -2,7 +2,7 @@
 
   ## Description
 
-  My first NestJS application built from scratch.  A simple starter app, with a get route that returns some HTML"
+  My first NestJS application built from scratch.  A simple starter app, with a get route that returns some HTML.
 
   ### Screenshot of app:
 
